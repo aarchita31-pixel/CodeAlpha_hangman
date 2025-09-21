@@ -31,6 +31,7 @@ A simple console-based Hangman game written in Python for beginners. The player 
 ---
 
 Sample Output
+<br>
 🎮 Welcome to Hangman!
 
 Word: _ _ _ _ _
