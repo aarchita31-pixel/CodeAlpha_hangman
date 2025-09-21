@@ -30,7 +30,7 @@ A simple console-based Hangman game written in Python for beginners. The player 
  letters correctly before running out of turns.
 ---
 
-Output
+Sample Output
 🎮 Welcome to Hangman!
 
 Word: _ _ _ _ _
@@ -43,4 +43,4 @@ Wrong guesses left: 6
 Guess a letter: z
 ❌ Wrong!
 Wrong guesses left: 5
-...
+....
